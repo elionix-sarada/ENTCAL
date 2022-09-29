@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENTCAL", "ENTCAL\ENTCAL.csproj", "{0956A14E-3664-4174-BE63-58F606007E43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0956A14E-3664-4174-BE63-58F606007E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0956A14E-3664-4174-BE63-58F606007E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0956A14E-3664-4174-BE63-58F606007E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0956A14E-3664-4174-BE63-58F606007E43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
