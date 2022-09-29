@@ -1,0 +1,9 @@
+C:\Users\sarad\OneDrive\prog\ENTCAL\ENTCAL\bin\Debug\ENTCAL.exe.config
+C:\Users\sarad\OneDrive\prog\ENTCAL\ENTCAL\bin\Debug\ENTCAL.exe
+C:\Users\sarad\OneDrive\prog\ENTCAL\ENTCAL\bin\Debug\ENTCAL.pdb
+C:\Users\sarad\OneDrive\prog\ENTCAL\ENTCAL\obj\Debug\ENTCAL.csprojResolveAssemblyReference.cache
+C:\Users\sarad\OneDrive\prog\ENTCAL\ENTCAL\obj\Debug\ENTCAL.Form1.resources
+C:\Users\sarad\OneDrive\prog\ENTCAL\ENTCAL\obj\Debug\ENTCAL.Properties.Resources.resources
+C:\Users\sarad\OneDrive\prog\ENTCAL\ENTCAL\obj\Debug\ENTCAL.csproj.GenerateResource.Cache
+C:\Users\sarad\OneDrive\prog\ENTCAL\ENTCAL\obj\Debug\ENTCAL.exe
+C:\Users\sarad\OneDrive\prog\ENTCAL\ENTCAL\obj\Debug\ENTCAL.pdb
