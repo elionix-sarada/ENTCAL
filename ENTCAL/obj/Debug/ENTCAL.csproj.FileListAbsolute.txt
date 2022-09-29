@@ -7,3 +7,12 @@ C:\Users\sarad\OneDrive\prog\ENTCAL\ENTCAL\obj\Debug\ENTCAL.Properties.Resources
 C:\Users\sarad\OneDrive\prog\ENTCAL\ENTCAL\obj\Debug\ENTCAL.csproj.GenerateResource.Cache
 C:\Users\sarad\OneDrive\prog\ENTCAL\ENTCAL\obj\Debug\ENTCAL.exe
 C:\Users\sarad\OneDrive\prog\ENTCAL\ENTCAL\obj\Debug\ENTCAL.pdb
+C:\Users\145-sarada\OneDrive - 株式会社　エリオニクス　\ENTサービス\プログラム\ENTCAL\ENTCAL\bin\Debug\ENTCAL.exe.config
+C:\Users\145-sarada\OneDrive - 株式会社　エリオニクス　\ENTサービス\プログラム\ENTCAL\ENTCAL\obj\Debug\ENTCAL.exe
+C:\Users\145-sarada\OneDrive - 株式会社　エリオニクス　\ENTサービス\プログラム\ENTCAL\ENTCAL\obj\Debug\ENTCAL.pdb
+C:\Users\145-sarada\OneDrive - 株式会社　エリオニクス　\ENTサービス\プログラム\ENTCAL\ENTCAL\bin\Debug\ENTCAL.exe
+C:\Users\145-sarada\OneDrive - 株式会社　エリオニクス　\ENTサービス\プログラム\ENTCAL\ENTCAL\bin\Debug\ENTCAL.pdb
+C:\Users\145-sarada\OneDrive - 株式会社　エリオニクス　\ENTサービス\プログラム\ENTCAL\ENTCAL\obj\Debug\ENTCAL.csprojResolveAssemblyReference.cache
+C:\Users\145-sarada\OneDrive - 株式会社　エリオニクス　\ENTサービス\プログラム\ENTCAL\ENTCAL\obj\Debug\ENTCAL.Form1.resources
+C:\Users\145-sarada\OneDrive - 株式会社　エリオニクス　\ENTサービス\プログラム\ENTCAL\ENTCAL\obj\Debug\ENTCAL.Properties.Resources.resources
+C:\Users\145-sarada\OneDrive - 株式会社　エリオニクス　\ENTサービス\プログラム\ENTCAL\ENTCAL\obj\Debug\ENTCAL.csproj.GenerateResource.Cache
